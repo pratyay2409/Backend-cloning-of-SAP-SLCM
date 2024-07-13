@@ -3,10 +3,10 @@
 ### Some of the important queries
 1) Display students who purse B.Tech and Computer Science and Engineering in first preference during admission.
 
-select student_name,program,branch_1 
-from slcm.admission_test
-join slcm.student_pre on slcm.student_pre.student_id=slcm.admission_test.student_id
-where program='b.tech' and branch_1='Computer Science and Engineering';
+   select student_name,program,branch_1 
+   from slcm.admission_test
+   join slcm.student_pre on slcm.student_pre.student_id=slcm.admission_test.student_id
+   where program='b.tech' and branch_1='Computer Science and Engineering';
 
 2) Display students according to the ranks.
 
