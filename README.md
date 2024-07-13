@@ -1,7 +1,8 @@
 # Backend-cloning-of-SAP-SLCM
 
 ### Database schema
-![Uploading SAP SLAM cloning.png…]()
+![SAP SLAM Schema](https://github.com/user-attachments/assets/a68e6010-eb5a-4294-900c-e37f29e9ded3)
+
 
 
 ### Some of the important queries
