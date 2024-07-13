@@ -1,5 +1,9 @@
 # Backend-cloning-of-SAP-SLCM
 
+### Database schema
+![Uploading SAP SLAM cloning.png…]()
+
+
 ### Some of the important queries
 1) Display students who purse B.Tech and Computer Science and Engineering in first preference during admission.
 
