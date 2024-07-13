@@ -68,10 +68,10 @@
 
 11) Display the students get more than 15 marks in mid semester examination.
 
-   select student_name,subject_name,marks_obtain
-   from slcm.mid_semester_examination
-   join slcm.student_post on slcm.student_post.roll_no=slcm.mid_semester_examination.roll_no
-   where marks_obtain >=15;
+    select student_name,subject_name,marks_obtain
+    from slcm.mid_semester_examination
+    join slcm.student_post on slcm.student_post.roll_no=slcm.mid_semester_examination.roll_no
+    where marks_obtain >=15;
 
 12) Display the students get more than 15 marks in a particular subject in  mid semester examination.
 
