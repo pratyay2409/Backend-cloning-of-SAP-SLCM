@@ -1,6 +1,6 @@
 # Backend-cloning-of-SAP-SLCM
 
-### steps and process of the projects
+### Steps and Process of the projects
 - Problem statement identification
 
 - Domain knowledge acquisition
