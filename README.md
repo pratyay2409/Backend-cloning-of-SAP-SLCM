@@ -11,21 +11,21 @@
 
 -Conceptual designing of the database
      
-     - ER designing
-     - Conversing into tables
-     - Normalization the tables
+   - ER designing
+   - Conversing into tables
+   - Normalization the tables
 
 -Physical designing of database
 
-      - Creations of table 
-      - Addition of constrains
-      - Inclination of dependency
+   - Creations of table
+   - Addition of constrains
+   - Inclination of dependency
 
 -Query designing 
 
-     - Simple queries
-     - Nested queries
-     - Optimized queries
+   - Simple queries
+   - Nested queries
+   - Optimized queries
 
 -Query implementation
 
