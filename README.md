@@ -2,21 +2,31 @@
 
 ### steps and process of the projects
 -Problem statement identification
+
 -Domain knowledge acquisition
+
 -Study of SAP SLCM
+
 -Requirement document preparation 
+
 -Conceptual designing of the database
+     
      - ER designing
      - Conversing into tables
      - Normalization the tables
+
 -Physical designing of database
+
       - Creations of table 
       - Addition of constrains
       - Inclination of dependency
+
 -Query designing 
+
      - Simple queries
      - Nested queries
      - Optimized queries
+
 -Query implementation
 
 ### Database schema
