@@ -1,33 +1,33 @@
 # Backend-cloning-of-SAP-SLCM
 
 ### steps and process of the projects
--Problem statement identification
+- Problem statement identification
 
--Domain knowledge acquisition
+- Domain knowledge acquisition
 
--Study of SAP SLCM
+- Study of SAP SLCM
 
--Requirement document preparation 
+- Requirement document preparation 
 
--Conceptual designing of the database
+- Conceptual designing of the database
      
    - ER designing
    - Conversing into tables
    - Normalization the tables
 
--Physical designing of database
+- Physical designing of database
 
    - Creations of table
    - Addition of constrains
    - Inclination of dependency
 
--Query designing 
+- Query designing 
 
    - Simple queries
    - Nested queries
    - Optimized queries
 
--Query implementation
+- Query implementation
 
 ### Database schema
 ![SAP SLAM Schema](https://github.com/user-attachments/assets/a68e6010-eb5a-4294-900c-e37f29e9ded3)
