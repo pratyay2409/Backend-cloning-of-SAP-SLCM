@@ -190,7 +190,7 @@
     where ((total_present/total_attendance)*100)<75
     group by subject_name;
 
-24) Display the name od students have maximum number of subject has attendance less than 75%.
+24) Display the name of students have maximum number of subject has attendance less than 75%.
 
     select student_name,count(subject_name) as number_of_subject 
     from slcm.attendance
