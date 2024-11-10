@@ -42,29 +42,29 @@
    join slcm.student_pre on slcm.student_pre.student_id=slcm.admission_test.student_id
    where program='b.tech' and branch_1='Computer Science and Engineering';
 
-3) Display students according to the ranks.
+2) Display students according to the ranks.
 
    select student_name,ranks 
    from slcm.admission_result
    join slcm.student_pre on slcm.student_pre.student_id=slcm.admission_result.student_id
    order by ranks;
 
-4) Display all the details of students after admission.
+3) Display all the details of students after admission.
 
    select * from slcm.student_post;
 
-5) Display the hostel name and the number of students present in the hostel.
+4) Display the hostel name and the number of students present in the hostel.
 
    select hostel_name,student_number from slcm.hostel;
 
-6) Display the details that which students is under which mentor.
+5) Display the details that which students is under which mentor.
 
    select student_name,professor_name
    from slcm.mentor
    join slcm.student_post on slcm.student_post.roll_no=slcm.mentor.roll_no
    join slcm.professor on slcm.professor.professor_id=slcm.mentor.professor_id;
 
-7) Display the details that which professor teaches which subject as per the semester,
+6) Display the details that which professor teaches which subject as per the semester,
 
    select professor_name,subject_name,semester
    from slcm.professor
